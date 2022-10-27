@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Update H1 in Explorer API docs (#7813)
