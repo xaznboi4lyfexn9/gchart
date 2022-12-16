@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
