@@ -1,1 +1,1 @@
-Fix test_mlflow_keep_run_active() (#8868)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
