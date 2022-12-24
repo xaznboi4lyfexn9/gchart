@@ -1,1 +1,1 @@
-add yolov10
+OBB: Fix plot_images (#7592)
