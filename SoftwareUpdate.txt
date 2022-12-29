@@ -1,1 +1,1 @@
-fix predict with class filter
+Improve Docs Modes tables (#8266)
