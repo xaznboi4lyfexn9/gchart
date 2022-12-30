@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Add PaddlePaddle Docs Integrations Page (#8858)
