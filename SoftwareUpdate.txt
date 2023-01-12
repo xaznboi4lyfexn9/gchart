@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Explorer with LanceDB, Actions and Docs updates (#7487)
