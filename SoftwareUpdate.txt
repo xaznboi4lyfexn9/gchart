@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
