@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
