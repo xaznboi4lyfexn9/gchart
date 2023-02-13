@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Fix TypeError in check_cfg() (#9245)
