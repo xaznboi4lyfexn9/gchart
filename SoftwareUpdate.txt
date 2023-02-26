@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
