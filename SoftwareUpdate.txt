@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
