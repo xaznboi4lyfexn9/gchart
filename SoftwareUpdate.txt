@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
