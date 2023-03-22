@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Update neural-magic.md (#7347)
