@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
