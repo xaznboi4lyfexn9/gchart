@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Explorer with LanceDB, Actions and Docs updates (#7487)
