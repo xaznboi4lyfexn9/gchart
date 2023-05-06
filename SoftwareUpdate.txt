@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
