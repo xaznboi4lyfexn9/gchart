@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Update CITATION.cff with cffinit corrections (#8658)
