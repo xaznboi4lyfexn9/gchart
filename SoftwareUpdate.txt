@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
