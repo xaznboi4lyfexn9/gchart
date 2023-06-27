@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
