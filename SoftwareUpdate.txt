@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
