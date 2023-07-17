@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+ultralytics 8.1.5 add OBB Tracking support (#7731)
