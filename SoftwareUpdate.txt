@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
