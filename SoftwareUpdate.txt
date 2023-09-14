@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
