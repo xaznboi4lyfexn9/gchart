@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Update Roboflow segmentation Docs pages (#8094)
