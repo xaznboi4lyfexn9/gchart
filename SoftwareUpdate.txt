@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
