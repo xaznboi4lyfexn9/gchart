@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Fix Yolo 8.0.206 scale bug (#7821)
