@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Clean up unused imgsz (#7771)
