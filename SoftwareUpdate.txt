@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
