@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+ultralytics 8.0.230 TensorRT export hang fix (#7180)
