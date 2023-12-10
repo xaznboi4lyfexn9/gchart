@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
