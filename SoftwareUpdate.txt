@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Update fraction arg to employ a random selection (#8234)
