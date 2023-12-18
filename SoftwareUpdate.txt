@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
