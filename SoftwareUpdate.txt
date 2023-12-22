@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Add Weights & Biases Docs integrations page (#7199)
