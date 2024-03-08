@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Add yolo_bbox2segment docs reference (#7751)
