@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Fix TypeError in check_cfg() (#9245)
