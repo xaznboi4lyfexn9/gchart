@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
