@@ -1,1 +1,1 @@
-YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
